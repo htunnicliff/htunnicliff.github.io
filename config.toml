@@ -1,4 +1,4 @@
-baseURL = "https://htunnicliff.github.io"
+baseURL = "https://huntertunnicliff.com"
 title = "Hunter Tunnicliff"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -85,7 +85,7 @@ page = "/:slug/"
 name = "Blog"
 weight = -70
 identifier = "htunnicliff"
-url = "https://htunnicliff.github.io"
+url = "https://huntertunnicliff.com"
 
 [blackfriday]
 hrefTargetBlank = true
