@@ -7,3 +7,7 @@
 .prev-entry~.next-entry:before {
     border-bottom-color: #52BE80;
 }
+
+.turbolinks-progress-bar {
+    border-color: #52BE80;
+}

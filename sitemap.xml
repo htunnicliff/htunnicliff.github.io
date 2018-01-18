@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://huntertunnicliff.com/post/welcome-message/</loc>
+    <loc>https://huntertunnicliff.com/post/coming-soon/</loc>
     <lastmod>2018-01-17T18:52:33-08:00</lastmod>
   </url>
   
@@ -14,12 +14,6 @@
   
   <url>
     <loc>https://huntertunnicliff.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://huntertunnicliff.com/tags/hugo/</loc>
-    <lastmod>2018-01-17T18:52:33-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,13 +36,12 @@
   </url>
   
   <url>
-    <loc>https://huntertunnicliff.com/tags/small-talk/</loc>
-    <lastmod>2018-01-17T18:52:33-08:00</lastmod>
+    <loc>https://huntertunnicliff.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://huntertunnicliff.com/tags/</loc>
+    <loc>https://huntertunnicliff.com/tags/test/</loc>
     <lastmod>2018-01-17T18:52:33-08:00</lastmod>
     <priority>0</priority>
   </url>

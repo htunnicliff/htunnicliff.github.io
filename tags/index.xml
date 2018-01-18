@@ -5,26 +5,16 @@
     <link>https://huntertunnicliff.com/tags/</link>
     <description>Recent content in Tags on Hunter Tunnicliff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Jan 2018 18:52:33 -0800</lastBuildDate>
     
 	<atom:link href="https://huntertunnicliff.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo</title>
-      <link>https://huntertunnicliff.com/tags/hugo/</link>
+      <title>Test</title>
+      <link>https://huntertunnicliff.com/tags/test/</link>
       <pubDate>Wed, 17 Jan 2018 18:52:33 -0800</pubDate>
       
-      <guid>https://huntertunnicliff.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Small talk</title>
-      <link>https://huntertunnicliff.com/tags/small-talk/</link>
-      <pubDate>Wed, 17 Jan 2018 18:52:33 -0800</pubDate>
-      
-      <guid>https://huntertunnicliff.com/tags/small-talk/</guid>
+      <guid>https://huntertunnicliff.com/tags/test/</guid>
       <description></description>
     </item>
     
