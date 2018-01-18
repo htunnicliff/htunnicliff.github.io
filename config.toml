@@ -19,6 +19,10 @@ pygmentsCodefences = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+[params]
+customCSS = ["css/prism.css"]
+customJS = ["js/prism.js", "js/custom.js"]
+
 [params.info]
 description = "Hunter Tunnicliff"
 title404 = "Nothing's here!"
