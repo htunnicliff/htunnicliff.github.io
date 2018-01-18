@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Hunter Tunnicliff</title>
-    <link>https://htunnicliff.github.io/tags/hugo/</link>
+    <link>https://huntertunnicliff.com/tags/hugo/</link>
     <description>Recent content in Hugo on Hunter Tunnicliff</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 17 Jan 2018 18:52:33 -0800</lastBuildDate>
     
-	<atom:link href="https://htunnicliff.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huntertunnicliff.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my new website</title>
-      <link>https://htunnicliff.github.io/post/welcome-message/</link>
+      <link>https://huntertunnicliff.com/post/welcome-message/</link>
       <pubDate>Wed, 17 Jan 2018 18:52:33 -0800</pubDate>
       
-      <guid>https://htunnicliff.github.io/post/welcome-message/</guid>
+      <guid>https://huntertunnicliff.com/post/welcome-message/</guid>
       <description>Welcome I&amp;rsquo;m very glad to introduce my new website!
 It&amp;rsquo;s a static website that I have done in less than 3 hours with this Hugo tutorial
 Here is some test code for the syntax highlighter:  body { font-family: &amp;ldquo;Noto Sans&amp;rdquo;, sans-serif; }  
